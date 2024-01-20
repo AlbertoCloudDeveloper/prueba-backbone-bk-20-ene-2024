@@ -1,0 +1,54 @@
+1- RESULTADOS DE LA PRUEBA
+
+Hola comparto los resultados de la prueba.
+En poco tiempo daremos respuesta a la decisión tomada de los Líderes y Directores de producción 
+Gracias 
+
+# Revisión pruebas tecnicas version 1.0
+## Criterios
+Se revisó el buen uso de la estructura del documento HTML como lo son etiquetas principales, 
+y que tengan su respectiva etiqueta de cierre, 
+también se tomó en cuenta el nombramiento de las clases que sea de fácil reconocimiento del componente o módulo. 
+Se tomó en cuenta la precisión en el maquetado como lo son: 
+
+* contenedores
+* tamaños de letra
+* colores
+* hovers
+* imagenes
+* slider
+* header
+* footer
+* dropdown
+y para la versión móvil igual. 
+
+Los puntos mencionados anteriormente tuvieron un buen impacto a la hora de la calificación, 
+adicionalmente se tomó en cuenta que las librerías agregadas si están teniendo su uso.
+## Puntuacion Prueba
+### Carlos: 
+Hizo falta asignación de la fuente del diseño, ajuste de los contenedores, tamaños de letras, colores, hover, header y footer en responsive.
+- Carlos 1.5/10
+
+
+
+2- SOLICITUD DE RETROALIMENTACIÓN 
+
+Buenos días Ingeniero Fabian,
+Confirmo recepción de mensaje y lectura  la puntuación de la prueba con las observaciones técnicas. 
+
+Muchas gracias por sus observaciones me ayudarán a mejorar en muchos aspectos, estoy totalmente sorprendido con la calificación tan baja.
+Es evidente que debo desarrollar más habilidades, estudiar más y mejorar la aplicación de las técnicas en mi actividades de desarrollo, no pensé obtener este resultado.  
+
+Sin embargo me ayudaría bastante saber porque la puntuación fué tan baja (de una manera más detallada) si dentro de la prueba se implementó la estructura de etiquetas html (Head, Body y Footer),  Se utilizó la estructura de container bootstrap con nombre de clases y elementos como lo son navbar, dropdown, breadcrum, collapse, item, nav, div, carousel (Slide) y en cierta medida cumplen con su función o la mayoría de ellos, los colores fueron implementados medianamente, se utilizaron los breakpoints para la diseño responsivo de la página y al momento de utilizar las vistas de browser de google estas presentaron un buen aspecto tanto versión móvil cómo de escritorio aunque no fué perfecta y si le hacia falta en varios aspectos. 
+
+Soy consciente que no me fué posible implementar las imágenes adecuadamente y que tuve problemas con la compilación de Css en Sass, también se me presentón un error humano en la aplicación de la fuente "Open Sans" del enlace - suministrado para la prueba - no quedó especificada en css, y que que los flex no fueron usados. Pero no pensé que a la página le faltara tanto. 
+
+Esta petición la hago en pro de mejorar y de poder identificar las debilidades y carencias que en este momento tengo, debo mejorar y fortalecer confiando en su gran experiencia y conocimiento técnico. 
+
+Nuevamente reitero las gracias por sus apreciaciones y observaciones que para mi son fundamentales y que espero poder implementar en mis futuros proyectos. Gracias por la atención prestada. 
+
+Cordialmente,
+
+Alberto Díaz Jiménez
+Practicante Sena - Backbone T D 
+
